@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 7fedf512651be3d49bd1794e60f99458
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Group001
+    100002: Group002
+    100004: Group003
+    100006: Group004
+    100008: Group005
+    100010: Group006
+    100012: Group007
+    100014: Group008
+    100016: Group009
+    100018: Group010
+    100020: Group011
+    100022: Group012
+    100024: Group013
+    100026: Group014
+    100028: Group015
+    100030: Group016
+    100032: //RootNode
+    100034: Object001
+    100036: Object002
+    100038: Object003
+    100040: Object004
+    100042: Object004 1
+    100044: Object005
+    100046: Object006
+    100048: Object007
+    100050: Object008
+    100052: Object009
+    100054: Object010
+    100056: Object011
+    100058: Object012
+    100060: Object013
+    100062: Object014
+    100064: Object015
+    100066: Object016
+    100068: Object017
+    100070: Object018
+    100072: Object019
+    100074: Object020
+    100076: Object021
+    100078: Object022
+    100080: Object023
+    100082: Object024
+    100084: Object025
+    100086: Object026
+    100088: Object027
+    100090: Object028
+    100092: Object029
+    100094: Object030
+    100096: Object031
+    100098: Object032
+    100100: Plane009
+    100102: Scene
+    400000: Group001
+    400002: Group002
+    400004: Group003
+    400006: Group004
+    400008: Group005
+    400010: Group006
+    400012: Group007
+    400014: Group008
+    400016: Group009
+    400018: Group010
+    400020: Group011
+    400022: Group012
+    400024: Group013
+    400026: Group014
+    400028: Group015
+    400030: Group016
+    400032: //RootNode
+    400034: Object001
+    400036: Object002
+    400038: Object003
+    400040: Object004
+    400042: Object004 1
+    400044: Object005
+    400046: Object006
+    400048: Object007
+    400050: Object008
+    400052: Object009
+    400054: Object010
+    400056: Object011
+    400058: Object012
+    400060: Object013
+    400062: Object014
+    400064: Object015
+    400066: Object016
+    400068: Object017
+    400070: Object018
+    400072: Object019
+    400074: Object020
+    400076: Object021
+    400078: Object022
+    400080: Object023
+    400082: Object024
+    400084: Object025
+    400086: Object026
+    400088: Object027
+    400090: Object028
+    400092: Object029
+    400094: Object030
+    400096: Object031
+    400098: Object032
+    400100: Plane009
+    400102: Scene
+    2100000: 'Material #65'
+    2100002: 'Material #64'
+    2100004: 'Material #66'
+    2100006: 01 - Default
+    2100008: 'Material #80'
+    2300000: Object001
+    2300002: Object002
+    2300004: Object003
+    2300006: Object004
+    2300008: Object004 1
+    2300010: Object005
+    2300012: Object006
+    2300014: Object007
+    2300016: Object008
+    2300018: Object009
+    2300020: Object010
+    2300022: Object011
+    2300024: Object012
+    2300026: Object013
+    2300028: Object014
+    2300030: Object015
+    2300032: Object016
+    2300034: Object017
+    2300036: Object018
+    2300038: Object019
+    2300040: Object020
+    2300042: Object021
+    2300044: Object022
+    2300046: Object023
+    2300048: Object024
+    2300050: Object025
+    2300052: Object026
+    2300054: Object027
+    2300056: Object028
+    2300058: Object029
+    2300060: Object030
+    2300062: Object031
+    2300064: Object032
+    2300066: Plane009
+    2300068: Scene
+    3300000: Object001
+    3300002: Object002
+    3300004: Object003
+    3300006: Object004
+    3300008: Object004 1
+    3300010: Object005
+    3300012: Object006
+    3300014: Object007
+    3300016: Object008
+    3300018: Object009
+    3300020: Object010
+    3300022: Object011
+    3300024: Object012
+    3300026: Object013
+    3300028: Object014
+    3300030: Object015
+    3300032: Object016
+    3300034: Object017
+    3300036: Object018
+    3300038: Object019
+    3300040: Object020
+    3300042: Object021
+    3300044: Object022
+    3300046: Object023
+    3300048: Object024
+    3300050: Object025
+    3300052: Object026
+    3300054: Object027
+    3300056: Object028
+    3300058: Object029
+    3300060: Object030
+    3300062: Object031
+    3300064: Object032
+    3300066: Plane009
+    3300068: Scene
+    4300000: Object004
+    4300002: Plane009
+    4300004: Scene
+    4300006: Object025
+    4300008: Object026
+    4300010: Object027
+    4300012: Object028
+    4300014: Object029
+    4300016: Object030
+    4300018: Object031
+    4300020: Object032
+    4300022: Object017
+    4300024: Object018
+    4300026: Object019
+    4300028: Object020
+    4300030: Object021
+    4300032: Object022
+    4300034: Object023
+    4300036: Object024
+    4300038: Object009
+    4300040: Object010
+    4300042: Object011
+    4300044: Object012
+    4300046: Object013
+    4300048: Object014
+    4300050: Object015
+    4300052: Object016
+    4300054: Object001
+    4300056: Object002
+    4300058: Object003
+    4300060: Object004
+    4300062: Object005
+    4300064: Object006
+    4300066: Object007
+    4300068: Object008
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
